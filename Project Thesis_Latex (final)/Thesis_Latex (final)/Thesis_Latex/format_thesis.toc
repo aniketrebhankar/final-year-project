@@ -1,0 +1,75 @@
+\contentsline {chapter}{ABSTRACT}{iii}{chapter*.1}% 
+\contentsline {chapter}{ACKNOWLEDGEMENTS}{iv}{chapter*.2}% 
+\contentsline {chapter}{LIST OF TABLES}{viii}{chapter*.4}% 
+\contentsline {chapter}{LIST OF FIGURES}{x}{chapter*.5}% 
+\contentsline {chapter}{ABBREVIATIONS}{xi}{chapter*.6}% 
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Overview of the Project}{1}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Aim of the Project}{2}{section.1.2}% 
+\contentsline {chapter}{\numberline {2}SYSTEM ANALYSIS}{3}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Literature Survey}{3}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Securing Communications Between External Users and Wireless Body Area Networks}{3}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Secure and Efficient data communication protocol for Wireless Body Area Networks}{3}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}Attribute-Based Encryption for Fine-Grained Access Control of Encrypted Data}{4}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.1.4}Body Area Network Security: A Fuzzy Attribute-Based Signcryption Scheme}{4}{subsection.2.1.4}% 
+\contentsline {subsection}{\numberline {2.1.5}An efficient threshold verifiable multi-secret sharing}{5}{subsection.2.1.5}% 
+\contentsline {section}{\numberline {2.2}Existing System}{5}{section.2.2}% 
+\contentsline {chapter}{\numberline {3}PROPOSED METHODOLOGY}{6}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Proposed System}{6}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Advantage of proposed system}{6}{section.3.2}% 
+\contentsline {chapter}{\numberline {4}SYSTEM IMPLEMENTATION}{7}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Modules}{7}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Description}{7}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}User interface design}{7}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Owner upload details and send to Mediator}{8}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Mediator User Check Details}{8}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Request send to Owner}{8}{subsection.4.2.4}% 
+\contentsline {subsection}{\numberline {4.2.5}Mediator send to campany}{8}{subsection.4.2.5}% 
+\contentsline {subsection}{\numberline {4.2.6}Company Request Send To Owner}{8}{subsection.4.2.6}% 
+\contentsline {section}{\numberline {4.3}Module Diagrams}{9}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}System Techniques}{11}{section.4.4}% 
+\contentsline {chapter}{\numberline {5}SYSTEM REQUIREMENTS}{12}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Hardware Requirements}{12}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Software Requirements}{12}{section.5.2}% 
+\contentsline {chapter}{\numberline {6}SYSTEM DESIGN}{14}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Usecase Diagram}{14}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Class Diagram}{15}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Object Diagram}{16}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}State Diagram}{17}{section.6.4}% 
+\contentsline {section}{\numberline {6.5}Sequence Diagram}{18}{section.6.5}% 
+\contentsline {section}{\numberline {6.6}Data Flow Diagram}{19}{section.6.6}% 
+\contentsline {subsection}{\numberline {6.6.1}Level-0}{19}{subsection.6.6.1}% 
+\contentsline {subsection}{\numberline {6.6.2}Level-1}{19}{subsection.6.6.2}% 
+\contentsline {subsection}{\numberline {6.6.3}Level-2}{20}{subsection.6.6.3}% 
+\contentsline {section}{\numberline {6.7}E-R Diagram}{21}{section.6.7}% 
+\contentsline {section}{\numberline {6.8}System Architecture}{22}{section.6.8}% 
+\contentsline {section}{\numberline {6.9}Proposed System Model Explanation}{22}{section.6.9}% 
+\contentsline {chapter}{\numberline {7}DEVELOPMENT TOOLS}{23}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Features of Java}{23}{section.7.1}% 
+\contentsline {subsection}{\numberline {7.1.1}The Java Framework}{23}{subsection.7.1.1}% 
+\contentsline {subsection}{\numberline {7.1.2}Objectives of Java}{24}{subsection.7.1.2}% 
+\contentsline {subsubsection}{Why Software Developers Choose Java}{24}{subsection.7.1.2}% 
+\contentsline {subsubsection}{Some Ways Software Developers Learn Java}{24}{subsection.7.1.2}% 
+\contentsline {subsubsection}{Object Oriented Language}{24}{subsection.7.1.2}% 
+\contentsline {subsection}{\numberline {7.1.3}Java Server Pages - An Overview}{25}{subsection.7.1.3}% 
+\contentsline {subsection}{\numberline {7.1.4}Evolution of Web Applications}{26}{subsection.7.1.4}% 
+\contentsline {subsection}{\numberline {7.1.5}Benefits of JSP}{27}{subsection.7.1.5}% 
+\contentsline {section}{\numberline {7.2}Servlets}{28}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Java Servlets}{28}{section.7.3}% 
+\contentsline {chapter}{\numberline {8}SOFTWARE TESTING}{30}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Developing Methodology}{30}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Types of Tests}{30}{section.8.2}% 
+\contentsline {subsection}{\numberline {8.2.1}Unit Testing}{30}{subsection.8.2.1}% 
+\contentsline {subsection}{\numberline {8.2.2}Functional test}{31}{subsection.8.2.2}% 
+\contentsline {subsection}{\numberline {8.2.3}System Test}{31}{subsection.8.2.3}% 
+\contentsline {subsection}{\numberline {8.2.4}Performance Test}{31}{subsection.8.2.4}% 
+\contentsline {subsection}{\numberline {8.2.5}Integration Testing}{32}{subsection.8.2.5}% 
+\contentsline {subsection}{\numberline {8.2.6}Acceptance Testing}{32}{subsection.8.2.6}% 
+\contentsline {subsection}{\numberline {8.2.7}Build the test plan}{32}{subsection.8.2.7}% 
+\contentsline {chapter}{\numberline {9}Results and Discussion}{33}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Results}{33}{section.9.1}% 
+\contentsline {chapter}{\numberline {10}CONCLUSION AND FUTURE ENHANCEMENT}{35}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}CONCLUSION}{35}{section.10.1}% 
+\contentsline {section}{\numberline {10.2}FUTURE ENHANCEMENTS}{35}{section.10.2}% 
+\contentsline {chapter}{\numberline {A}SAMPLE CODING}{36}{appendix.A}% 
+\contentsline {chapter}{\numberline {B}SCREENSHOTS}{53}{appendix.B}% 

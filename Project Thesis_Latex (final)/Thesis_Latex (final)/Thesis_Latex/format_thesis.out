@@ -1,0 +1,72 @@
+\BOOKMARK [0][-]{chapter*.1}{ABSTRACT}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{ACKNOWLEDGEMENTS}{}% 2
+\BOOKMARK [0][-]{chapter*.4}{LIST OF TABLES}{}% 3
+\BOOKMARK [0][-]{chapter*.5}{LIST OF FIGURES}{}% 4
+\BOOKMARK [0][-]{chapter*.6}{ABBREVIATIONS}{}% 5
+\BOOKMARK [0][-]{chapter.1}{INTRODUCTION}{}% 6
+\BOOKMARK [1][-]{section.1.1}{Overview of the Project}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.2}{Aim of the Project}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{SYSTEM ANALYSIS}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Literature Survey}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.1.1}{Securing Communications Between External Users and Wireless Body Area Networks}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.2}{Secure and Efficient data communication protocol for Wireless Body Area Networks}{section.2.1}% 12
+\BOOKMARK [2][-]{subsection.2.1.3}{Attribute-Based Encryption for Fine-Grained Access Control of Encrypted Data}{section.2.1}% 13
+\BOOKMARK [2][-]{subsection.2.1.4}{Body Area Network Security: A Fuzzy Attribute-Based Signcryption Scheme}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.5}{An efficient threshold verifiable multi-secret sharing}{section.2.1}% 15
+\BOOKMARK [1][-]{section.2.2}{Existing System}{chapter.2}% 16
+\BOOKMARK [0][-]{chapter.3}{PROPOSED METHODOLOGY}{}% 17
+\BOOKMARK [1][-]{section.3.1}{Proposed System}{chapter.3}% 18
+\BOOKMARK [1][-]{section.3.2}{Advantage of proposed system}{chapter.3}% 19
+\BOOKMARK [0][-]{chapter.4}{SYSTEM IMPLEMENTATION}{}% 20
+\BOOKMARK [1][-]{section.4.1}{Modules}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.2}{Description}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.2.1}{User interface design}{section.4.2}% 23
+\BOOKMARK [2][-]{subsection.4.2.2}{Owner upload details and send to Mediator}{section.4.2}% 24
+\BOOKMARK [2][-]{subsection.4.2.3}{Mediator User Check Details}{section.4.2}% 25
+\BOOKMARK [2][-]{subsection.4.2.4}{Request send to Owner}{section.4.2}% 26
+\BOOKMARK [2][-]{subsection.4.2.5}{Mediator send to campany}{section.4.2}% 27
+\BOOKMARK [2][-]{subsection.4.2.6}{Company Request Send To Owner}{section.4.2}% 28
+\BOOKMARK [1][-]{section.4.3}{Module Diagrams}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.4}{System Techniques}{chapter.4}% 30
+\BOOKMARK [0][-]{chapter.5}{SYSTEM REQUIREMENTS}{}% 31
+\BOOKMARK [1][-]{section.5.1}{Hardware Requirements}{chapter.5}% 32
+\BOOKMARK [1][-]{section.5.2}{Software Requirements}{chapter.5}% 33
+\BOOKMARK [0][-]{chapter.6}{SYSTEM DESIGN}{}% 34
+\BOOKMARK [1][-]{section.6.1}{Usecase Diagram}{chapter.6}% 35
+\BOOKMARK [1][-]{section.6.2}{Class Diagram}{chapter.6}% 36
+\BOOKMARK [1][-]{section.6.3}{Object Diagram}{chapter.6}% 37
+\BOOKMARK [1][-]{section.6.4}{State Diagram}{chapter.6}% 38
+\BOOKMARK [1][-]{section.6.5}{Sequence Diagram}{chapter.6}% 39
+\BOOKMARK [1][-]{section.6.6}{Data Flow Diagram}{chapter.6}% 40
+\BOOKMARK [2][-]{subsection.6.6.1}{Level-0}{section.6.6}% 41
+\BOOKMARK [2][-]{subsection.6.6.2}{Level-1}{section.6.6}% 42
+\BOOKMARK [2][-]{subsection.6.6.3}{Level-2}{section.6.6}% 43
+\BOOKMARK [1][-]{section.6.7}{E-R Diagram}{chapter.6}% 44
+\BOOKMARK [1][-]{section.6.8}{System Architecture}{chapter.6}% 45
+\BOOKMARK [1][-]{section.6.9}{Proposed System Model Explanation}{chapter.6}% 46
+\BOOKMARK [0][-]{chapter.7}{DEVELOPMENT TOOLS}{}% 47
+\BOOKMARK [1][-]{section.7.1}{Features of Java}{chapter.7}% 48
+\BOOKMARK [2][-]{subsection.7.1.1}{The Java Framework}{section.7.1}% 49
+\BOOKMARK [2][-]{subsection.7.1.2}{Objectives of Java}{section.7.1}% 50
+\BOOKMARK [2][-]{subsection.7.1.3}{Java Server Pages - An Overview}{section.7.1}% 51
+\BOOKMARK [2][-]{subsection.7.1.4}{Evolution of Web Applications}{section.7.1}% 52
+\BOOKMARK [2][-]{subsection.7.1.5}{Benefits of JSP}{section.7.1}% 53
+\BOOKMARK [1][-]{section.7.2}{Servlets}{chapter.7}% 54
+\BOOKMARK [1][-]{section.7.3}{Java Servlets}{chapter.7}% 55
+\BOOKMARK [0][-]{chapter.8}{SOFTWARE TESTING}{}% 56
+\BOOKMARK [1][-]{section.8.1}{Developing Methodology}{chapter.8}% 57
+\BOOKMARK [1][-]{section.8.2}{Types of Tests}{chapter.8}% 58
+\BOOKMARK [2][-]{subsection.8.2.1}{Unit Testing}{section.8.2}% 59
+\BOOKMARK [2][-]{subsection.8.2.2}{Functional test}{section.8.2}% 60
+\BOOKMARK [2][-]{subsection.8.2.3}{System Test}{section.8.2}% 61
+\BOOKMARK [2][-]{subsection.8.2.4}{Performance Test}{section.8.2}% 62
+\BOOKMARK [2][-]{subsection.8.2.5}{Integration Testing}{section.8.2}% 63
+\BOOKMARK [2][-]{subsection.8.2.6}{Acceptance Testing}{section.8.2}% 64
+\BOOKMARK [2][-]{subsection.8.2.7}{Build the test plan}{section.8.2}% 65
+\BOOKMARK [0][-]{chapter.9}{Results and Discussion}{}% 66
+\BOOKMARK [1][-]{section.9.1}{Results}{chapter.9}% 67
+\BOOKMARK [0][-]{chapter.10}{CONCLUSION AND FUTURE ENHANCEMENT}{}% 68
+\BOOKMARK [1][-]{section.10.1}{CONCLUSION}{chapter.10}% 69
+\BOOKMARK [1][-]{section.10.2}{FUTURE ENHANCEMENTS}{chapter.10}% 70
+\BOOKMARK [0][-]{appendix.A}{SAMPLE CODING}{}% 71
+\BOOKMARK [0][-]{appendix.B}{SCREENSHOTS}{}% 72

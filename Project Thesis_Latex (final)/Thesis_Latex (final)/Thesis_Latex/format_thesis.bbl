@@ -1,0 +1,83 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{A.Sahai and B.Waters}{A.Sahai and
+  B.Waters}{2005}]{aq}
+A.Sahai and B.Waters (2005).
+\newblock {\em Fuzzy identity-based encryption}.
+\newblock Advances in Cryptology–EUROCRYPT.
+
+\bibitem[\protect\citeauthoryear{A.Sahai and B.Waters}{A.Sahai and
+  B.Waters}{2006}]{as}
+A.Sahai, V. and B.Waters (2006).
+\newblock ``Computer and communications security.''\ {\em Attribute-based
+  encryption for fine-grained access control of encrypted data}, A. conference,
+  ed.  89--98.
+
+\bibitem[\protect\citeauthoryear{A.Shamir}{A.Shamir}{1985}]{er}
+A.Shamir (1985).
+\newblock ``Identity-based cryptosystems and signature schemes.''\ {\em
+  Springer},  47--53.
+
+\bibitem[\protect\citeauthoryear{B.Waters}{B.Waters}{2011}]{ad}
+B.Waters (2011).
+\newblock ``Ciphertext-policy attribute-based encryption: An expressive.''\
+  {\em PKC},  53--70.
+
+\bibitem[\protect\citeauthoryear{H.Li and Y.Huo}{H.Li and Y.Huo}{2016}]{aw}
+H.Li, C. and Y.Huo (2016).
+\newblock ``Secure and efficient data communication protocol for wireless body
+  area networks.''\ {\em IEEE Transactions on Multi-Scale Computing Systems},
+  2(2), 94--107.
+
+\bibitem[\protect\citeauthoryear{Lei and Zewa}{Lei and Zewa}{2018}]{fd}
+Lei, S. and Zewa, W. (2018).
+\newblock ``Research and design of cryptography cloud framework.''\ {\em
+  EUROCRYPT},  568--588.
+
+\bibitem[\protect\citeauthoryear{M.A.Beyer and D.Laney}{M.A.Beyer and
+  D.Laney}{2012}]{cd}
+M.A.Beyer and D.Laney (2012).
+\newblock ``The importance of big data: a definition.''\ {\em Stamford}.
+
+\bibitem[\protect\citeauthoryear{M.Dehkordi and S.Mashhadi}{M.Dehkordi and
+  S.Mashhadi}{2008}]{ae}
+M.Dehkordi and S.Mashhadi (2008).
+\newblock ``An efficient threshold verifiable multisecret sharing.''\ {\em
+  Computer Standards \& Interfaces}, 30(3), 187--190.
+
+\bibitem[\protect\citeauthoryear{M.H.Dehkordi and S.Mashhadi}{M.H.Dehkordi and
+  S.Mashhadi}{2008}]{sw}
+M.H.Dehkordi and S.Mashhadi (2008).
+\newblock ``New efficient and practical verifiable multi-secret sharing
+  schemes.''\ {\em Information Sciences}, 178(9), 2262--2274.
+
+\bibitem[\protect\citeauthoryear{M.Hu and B.Liu}{M.Hu and B.Liu}{2004}]{de}
+M.Hu and B.Liu (2004).
+\newblock ``Mining and summarizing company reviews.''\ {\em Discovery Data
+  Mining}, A.~S. Int, ed.  168--177.
+
+\bibitem[\protect\citeauthoryear{V.Marx}{V.Marx}{2013}]{bc}
+V.Marx (2013).
+\newblock ``Biology: The big challenges of big data.''\ {\em Nature},
+  498(7453), 255--260.
+
+\bibitem[\protect\citeauthoryear{X.Cheng and Z.Tian}{X.Cheng and
+  Z.Tian}{2015}]{tr}
+X.Cheng, C. and Z.Tian (2015).
+\newblock ``An attributebased signcryption scheme to secure attribute-defined
+  multicast communications.''\ {\em Springer},  418--435.
+
+\bibitem[\protect\citeauthoryear{X.Liao and D.Chen}{X.Liao and
+  D.Chen}{2013}]{sd}
+X.Liao, C. and D.Chen (2013).
+\newblock ``Securing communications between external users and wireless body
+  area networks.''\ {\em Hot topics on wireless network security and privacy},
+  A. workshop, ed.  31--36.
+
+\bibitem[\protect\citeauthoryear{Z.Eslami and J.Z.Ahmadabadi}{Z.Eslami and
+  J.Z.Ahmadabadi}{2010}]{at}
+Z.Eslami and J.Z.Ahmadabadi (2010).
+\newblock ``A verifiable multi-secret sharing scheme based on cellular
+  automata.''\ {\em Information Sciences}, 180(15), 2889--2894.
+
+\end{thebibliography}
